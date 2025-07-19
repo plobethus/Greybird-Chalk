@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Greybird-Chalk
+Comment=Greybird dark variant with Chalkboard palette
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Greybird-dark
+MetacityTheme=Greybird-dark
+IconTheme=elementary-xfce-dark
+CursorTheme=DMZ-Black
+ButtonLayout=:minimize,maximize,close

@@ -1,0 +1,25 @@
+/*  © 2009–2019 Simon Steinbeiß, Satyajit Sahoo, Pasi Lallinaho, Carson Black, Maurizio Galli  
+ *  © 2025 Henry Moran – Chalkboard palette adaptation
+ *  This file is licensed under the GNU GPL v2 or later.
+ */
+
+
+
+/* Panel */
+#panel {
+    background-color: rgba(31,45,45,0.85);
+    color: #F0F0F0;
+}
+
+#panel .panel-button:hover,
+#panel .panel-button:focus {
+    background-color: rgba(189,234,255,0.25);   /* pastel-blue highlight */
+}
+
+#panel .panel-button:active {
+    background-color: rgba(255,176,176,0.35);   /* pastel-pink press */
+}
+
+#panel .clock-display {             /* make the clock pop a bit */
+    color: #FFFCA4;
+}

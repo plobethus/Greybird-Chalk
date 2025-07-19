@@ -1,0 +1,2 @@
+option('generate_sourcemaps', type: 'boolean', value: false)
+
