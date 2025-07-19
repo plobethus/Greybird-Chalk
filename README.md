@@ -4,6 +4,7 @@ Copyright 2025 Henry Moran – Chalkboard-palette adaptation
 # Greybird-Chalk
 
 *A Chalkboard-coloured fork of the Greybird desktop-theme suite.*
+![Greybird-Chalk desktop](img/image.png)
 
 It replaces the dark variant’s palette with five pastels  
 `#1F2D2D` (bg) · `#BDEAFF` (blue) · `#FFFCA4` (yellow) · `#C8FF9B` (green) · `#FFB0B0` (pink)  
